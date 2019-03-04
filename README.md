@@ -1,6 +1,5 @@
-# SuperSeriousJam
-
-# Cost of Living
+# Abertay Serious Game Jam
+## Cost of Living
 
 Team - 4 programmers 
 
